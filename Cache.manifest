@@ -1,0 +1,24 @@
+CACHE MANIFEST 
+
+CACHE:
+bg.jpg 
+module/chain.mjs
+module/constants.mjs
+module/int64.mjs
+module/mem.mjs
+module/memtools.mjs
+module/offset.mjs
+module/rw.mjs
+module/utils.mjs
+alert.mjs
+config.mjs
+exploit.mjs
+goldhen.bin
+index.html
+672.js
+kexploit.js
+672test.js
+NETWORK: 
+* 
+
+# Date: 2024-31-16T15:59:00Z:
